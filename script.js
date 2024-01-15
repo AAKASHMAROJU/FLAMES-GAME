@@ -63,7 +63,7 @@ const playGame = ()=>{
     else if(res==='M'){
         data.innerHTML="MARRAIGE &#128146;"
         data.style.color="pink"
-        url = "/audio/marriage.mp3";
+        url = "https://github.com/AAKASHMAROJU/flames-game/blob/root/audio/marriage.mp3";
     }
     else if(res==='E'){
         data.innerHTML="ENEMIES &#128520;"

@@ -47,8 +47,7 @@ const playGame = ()=>{
     if(res==='F'){
         data.innerHTML="FRIENDS 	&#129303;";
         data.style.color="orange"
-        // url = "/audio/friends.mp3";
-        url = "https://raw.githubusercontent.com/AAKASHMAROJU/flames-game/audio/friends.mp3";
+        url = "/audio/friends.mp3";
     }
     else if(res==='L'){
         data.innerHTML="LOVERS	&#10084; "
